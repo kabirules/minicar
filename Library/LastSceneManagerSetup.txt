@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/Tuto.unity
+- path: Assets/MCR Creator/Assets/Scenes/Menu.unity
   isLoaded: 1
   isActive: 1
